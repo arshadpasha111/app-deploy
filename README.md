@@ -1,4 +1,4 @@
 # app-deploy
 Sclar
-Deployment config updated
+Deploy app configuration updated
 
